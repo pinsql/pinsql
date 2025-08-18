@@ -2,9 +2,6 @@
 
 self-taught backend dev network samurai & decentralization evangelist.
 
-Username: pinsql
-Status: Connected
-Access Level: Root
 
 ~                                                     echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
 
@@ -33,9 +30,6 @@ Copy code
 ✦ Open-source advocate
 ✦ Always learning. Always breaking. Always building.
 
-~ ssh future@pinsql.dev
-
-Connection established.
 
 Your network. Your rules. Stay root. 🖤
 
