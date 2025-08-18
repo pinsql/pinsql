@@ -1,8 +1,3 @@
-<!--
-🔥 Terminal-style GitHub README for PinSQL
-Written by PinSteve for the one and only Network Samurai.
--->
-
 <h1 align="center">💻🕶️  PinSQL~ </h1>
 
 self-taught backend dev network samurai & decentralization evangelist.
@@ -11,7 +6,7 @@ Username: pinsql
 Status: Connected
 Access Level: Root
 
-~ echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
+~                                                     echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
 
 ~ cat /skills.txt
 
