@@ -5,7 +5,7 @@
   <i>Self-taught backend dev, network samurai & decentralization evangelist.</i>
 </p>
 
-***** :) thically or **^ tested the digital walls of hundreds of companies. *****
+***** :) I've ethically or **^ tested the digital walls of hundreds of companies. *****
 
 Networking • Linux • Backend Development (Node.js, Python, PHP)
 Systems Design • APIs • Firewalls & Intrusion • Docker & DevOps
