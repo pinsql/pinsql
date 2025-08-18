@@ -3,16 +3,12 @@
 self-taught backend dev network samurai & decentralization evangelist.
 
 
-~                                                     echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
+~ echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
 
 ~ cat /skills.txt
 
 Networking • Linux •  • Backend Development (Node.js, Python, php)
 Systems Design • APIs • Firewalls & Intrusion • Docker & DevOps
-
-~ ping -c 1 github.com
-
-Alive. Decentralized spirit detected.
 
 ~ curl github.com/pinsql
 
@@ -31,7 +27,7 @@ Copy code
 ✦ Always learning. Always breaking. Always building.
 
 
-Your network. Your rules. Stay root. 🖤
+Your network. Your rules. Stay root. 🖤 stay Fr3sty!
 
 ---
 
