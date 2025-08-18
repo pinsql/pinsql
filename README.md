@@ -1,13 +1,21 @@
-<h1 align="center">💻🕶️  PinSQL~ </h1>
+<!--
+Terminal-style GitHub README for PinSQL
+Refined: compact layout, pink flair, and hacker vibes.
+-->
 
-self-taught backend dev network samurai & decentralization evangelist.
+<h1 align="center" style="color:#ff69b4;">💻🕶️ PinSQL~</h1>
 
+<p align="center">
+  <i>Self-taught backend dev, network samurai & decentralization evangelist.</i>
+</p>
 
-~ echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
+~ echo "Hack the planet"
+
+***** I've ethically tested the digital walls of hundreds of companies. *****
 
 ~ cat /skills.txt
 
-Networking • Linux •  • Backend Development (Node.js, Python, php)
+Networking • Linux • Backend Development (Node.js, Python, PHP)
 Systems Design • APIs • Firewalls & Intrusion • Docker & DevOps
 
 ~ curl github.com/pinsql
@@ -18,25 +26,29 @@ php-template
 Copy code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinsql&show_icons=true&theme=radical&count_private=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinsql&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinsql&show_icons=true&theme=radical&count_private=true&hide_title=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinsql&layout=compact&theme=radical" width="300"/>
 </p>
+
+~ traceroute goals.txt
 
 ✦ Build tech that breaks barriers
 ✦ Open-source advocate
 ✦ Always learning. Always breaking. Always building.
 
+~ whoami
 
 Your network. Your rules. Stay root. 🖤 stay Fr3sty!
+
+yaml
+Copy code
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinsql&color=green&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pinsql&color=ff69b4&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-<!-- You can add personal project badges or external links below -->
-
-<!-- Terminal-ends -->
+<!-- Customize with badges or project links as needed -->
