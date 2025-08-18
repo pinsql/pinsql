@@ -3,11 +3,11 @@
 Written by PinSteve for the one and only Network Samurai.
 -->
 
-<h1 align="center">💻🕶️  PinSQL  ~Stevee~ </h1>
+<h1 align="center">💻🕶️  PinSQL~ </h1>
 
 ~ whoami
 
-A self-taught backend ninja, network samurai, and decentralization evangelist.
+self-taught backend dev network samurai & decentralization evangelist.
 
 ~ id
 
@@ -21,7 +21,7 @@ I've ethically tested the digital walls of hundreds of companies.
 
 ~ cat /skills.txt
 
-Networking • Linux • Reverse Engineering • Backend Development (Node.js, Python, Go)
+Networking • Linux •  • Backend Development (Node.js, Python, php)
 Systems Design • APIs • Firewalls & Intrusion • Docker & DevOps
 
 ~ ping -c 1 github.com
