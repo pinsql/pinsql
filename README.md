@@ -5,19 +5,13 @@ Written by PinSteve for the one and only Network Samurai.
 
 <h1 align="center">💻🕶️  PinSQL~ </h1>
 
-~ whoami
-
 self-taught backend dev network samurai & decentralization evangelist.
-
-~ id
 
 Username: pinsql
 Status: Connected
 Access Level: Root
 
-~ echo "Hack the planet"
-
-I've ethically tested the digital walls of hundreds of companies.
+~ echo "Hack the planet"    *****I've ethically tested the digital walls of hundreds of companies.**** 
 
 ~ cat /skills.txt
 
@@ -40,8 +34,6 @@ Copy code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinsql&layout=compact&theme=radical" />
 </p>
 
-~ traceroute goals.txt
-
 ✦ Build tech that breaks barriers
 ✦ Open-source advocate
 ✦ Always learning. Always breaking. Always building.
@@ -51,9 +43,6 @@ Copy code
 Connection established.
 
 Your network. Your rules. Stay root. 🖤
-
-php-template
-Copy code
 
 ---
 
