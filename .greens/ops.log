@@ -81,3 +81,4 @@
 2025-10-28T11:38:32+0300 cleanup
 2025-10-29T15:28:03+0300 tweak scanner flags
 2025-10-29T20:54:06+0300 ctf writeup draft
+2025-10-29T18:07:33+0300 fix regex in parser
