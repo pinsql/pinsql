@@ -88,3 +88,4 @@
 2025-10-30T14:26:19+0300 bump tooling
 2025-10-31T16:24:04+0300 refactor enum script
 2025-10-31T20:36:00+0300 log ops
+2025-11-02T13:57:10+0300 fix regex in parser
