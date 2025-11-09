@@ -107,3 +107,4 @@
 2025-11-06T15:59:06+0300 tweak scanner flags
 2025-11-09T10:54:15+0300 bump tooling
 2025-11-09T16:53:48+0300 add payload notes
+2025-11-09T11:23:31+0300 fix regex in parser
