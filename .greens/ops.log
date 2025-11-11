@@ -119,3 +119,4 @@
 2025-11-11T15:39:59+0300 tweak scanner flags
 2025-11-11T17:58:41+0300 fix regex in parser
 2025-11-11T14:56:57+0300 add payload notes
+2025-11-11T18:53:42+0300 port sweep tweaks
