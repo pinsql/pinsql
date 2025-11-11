@@ -117,3 +117,4 @@
 2025-11-11T14:19:02+0300 port sweep tweaks
 2025-11-11T16:38:53+0300 recon notes
 2025-11-11T15:39:59+0300 tweak scanner flags
+2025-11-11T17:58:41+0300 fix regex in parser
