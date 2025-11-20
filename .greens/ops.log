@@ -142,3 +142,4 @@
 2025-11-20T21:43:18+0300 recon notes
 2025-11-20T16:05:33+0300 port sweep tweaks
 2025-11-20T16:08:29+0300 add payload notes
+2025-11-20T19:43:41+0300 fix regex in parser
