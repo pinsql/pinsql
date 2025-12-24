@@ -202,3 +202,4 @@
 2025-12-24T12:35:15+0300 tweak scanner flags
 2025-12-24T17:22:26+0300 port sweep tweaks
 2025-12-24T13:46:35+0300 port sweep tweaks
+2025-12-24T14:46:14+0300 fix regex in parser
