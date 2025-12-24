@@ -200,3 +200,4 @@
 2025-12-23T12:39:22+0300 fix regex in parser
 2025-12-24T10:44:18+0300 cleanup
 2025-12-24T12:35:15+0300 tweak scanner flags
+2025-12-24T17:22:26+0300 port sweep tweaks
