@@ -268,3 +268,4 @@
 2026-01-16T19:39:00+0300 refactor enum script
 2026-01-16T21:36:39+0300 fix regex in parser
 2026-01-16T11:21:05+0300 bump tooling
+2026-01-16T15:16:23+0300 port sweep tweaks
