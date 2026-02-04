@@ -308,3 +308,4 @@
 2026-02-03T12:06:38+0300 add payload notes
 2026-02-04T17:42:40+0300 port sweep tweaks
 2026-02-04T12:29:30+0300 log ops
+2026-02-04T12:02:21+0300 refactor enum script
