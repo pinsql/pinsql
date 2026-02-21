@@ -349,3 +349,4 @@
 2026-02-21T11:53:52+0300 tweak scanner flags
 2026-02-21T22:51:31+0300 recon notes
 2026-02-21T16:09:31+0300 add payload notes
+2026-02-21T19:59:18+0300 fix regex in parser
