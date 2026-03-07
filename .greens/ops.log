@@ -379,3 +379,4 @@
 2026-03-05T20:06:45+0300 log ops
 2026-03-05T21:54:02+0300 fix regex in parser
 2026-03-07T12:57:05+0300 bump tooling
+2026-03-07T20:24:47+0300 tweak scanner flags
