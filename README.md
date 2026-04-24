@@ -89,7 +89,7 @@ pinsql@github:~$ neofetch --theme pink-on-black
 
 <p align="center">
   <b>Your network. Your rules.</b><br/>
-  <code>sudo whoami</code> → <b style="color:#ff69b4">pink</b><br/>
+  <code>sudo whoami</code> → <code>pink</code><br/>
   <code>stay-root</code> · <code>stay Fr3sty</code> 🖤💗
 </p>
 
