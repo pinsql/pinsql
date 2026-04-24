@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=50&lines=PinSQL;Backend+%7C+Networks+%7C+Systems;Break+things+%E2%86%92+Learn+%E2%86%92+Build;root%40pinsql%3A~%24+_" alt="Typing SVG" />
 
+<p>
+  <a href="https://github.com/pinsql"><img src="https://img.shields.io/badge/GitHub-pinsql-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub @pinsql" /></a>
+  &nbsp;
+  <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1d9bf0" alt="X @wildkenyan" /></a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9f&height=120&section=header&text=&fontSize=42&animation=twinkling&fontAlignY=32" width="100%" alt="header wave" />
 
 ```
