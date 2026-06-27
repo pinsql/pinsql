@@ -718,3 +718,4 @@
 2026-06-26T22:31:00+0300 fix regex in parser
 2026-06-27T10:51:26+0300 add payload notes
 2026-06-27T18:45:07+0300 tweak scanner flags
+2026-06-27T19:45:56+0300 cleanup
