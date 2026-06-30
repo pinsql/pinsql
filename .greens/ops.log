@@ -739,3 +739,4 @@
 2026-06-29T12:36:39+0300 bump tooling
 2026-06-29T09:21:04+0300 recon notes
 2026-06-30T12:31:15+0300 add payload notes
+2026-06-30T12:03:45+0300 fix regex in parser
