@@ -853,3 +853,4 @@
 2026-08-10T13:24:41+0300 cleanup
 2026-08-10T09:57:45+0300 update wordlists
 2026-08-10T15:42:05+0300 fix regex in parser
+2026-08-11T21:03:06+0300 tweak scanner flags
