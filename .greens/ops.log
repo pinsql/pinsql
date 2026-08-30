@@ -913,3 +913,4 @@
 2026-08-29T18:29:33+0300 update wordlists
 2026-08-29T19:56:29+0300 tweak scanner flags
 2026-08-30T22:34:17+0300 fix regex in parser
+2026-08-30T15:24:52+0300 fix regex in parser
