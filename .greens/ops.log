@@ -942,3 +942,4 @@
 2026-09-09T14:18:26+0300 add payload notes
 2026-09-10T19:01:15+0300 tweak scanner flags
 2026-09-11T17:40:20+0300 recon notes
+2026-09-11T16:54:08+0300 fix regex in parser
