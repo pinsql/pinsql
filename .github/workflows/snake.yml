@@ -1,6 +1,6 @@
-name: snake
+name: profile-graphics
 
-# Renders the contribution-snake SVGs shown in README.md
+# Renders the telemetry card and contribution-snake SVGs shown in README.md
 # and publishes them to the `output` branch.
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/snake.yml"]
+    paths: [".github/workflows/snake.yml", ".github/scripts/**"]
 
 permissions:
   contents: write
@@ -18,6 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
+      - name: render telemetry
+        run: python .github/scripts/telemetry.py ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

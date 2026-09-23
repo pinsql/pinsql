@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="352" viewBox="0 0 860 352" role="img" aria-label="ls -la ~/ops — pinsql projects">
+  <style>
+    .t{font:14px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
+    .m{fill:#00ff9f}.c{fill:#00e5ff}.d{fill:#6e7681}.r{fill:#ff2e63}.w{fill:#e6edf3}
+    .n{font-weight:700;fill:#00ff9f}
+    .sm{font-size:12px}
+    .row{opacity:0;animation:in .35s ease forwards}
+    .r1{animation-delay:.9s}.r2{animation-delay:1.15s}.r3{animation-delay:1.4s}.r4{animation-delay:1.65s}.r5{animation-delay:1.9s}.r6{animation-delay:2.15s}.r7{animation-delay:2.6s}
+    .cmd{opacity:0;animation:in .2s forwards .2s}
+    .hl{fill:#00ff9f;opacity:0;animation:hl 7.2s ease-in-out infinite 3s}
+    .cur{animation:bl 1s steps(1) infinite}
+    @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+    @keyframes bl{50%{opacity:0}}
+    @keyframes hl{0%{opacity:0;transform:translateY(0)}4%{opacity:.07}
+      16%{transform:translateY(0)}20%{transform:translateY(38px)}32%{transform:translateY(38px)}36%{transform:translateY(76px)}
+      48%{transform:translateY(76px)}52%{transform:translateY(114px)}64%{transform:translateY(114px)}68%{transform:translateY(152px)}
+      80%{transform:translateY(152px)}84%{transform:translateY(190px)}96%{opacity:.07;transform:translateY(190px)}100%{opacity:0;transform:translateY(190px)}}
+  </style>
+  <defs><linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
+
+  <rect width="860" height="352" rx="12" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="859" height="351" rx="12" fill="none" stroke="#30363d"/>
+  <rect x="1" y="1" width="858" height="34" rx="11" fill="#161b22"/><rect x="1" y="20" width="858" height="14" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="430" y="22" text-anchor="middle" class="t d sm">root@pinsql: ~/ops</text>
+  <rect y="34" width="860" height="2" fill="url(#glow)"/>
+
+  <text x="24" y="66" class="t cmd"><tspan class="m">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan>ls -la ~/ops <tspan class="d">--sort=threat</tspan></text>
+
+  <!-- column header -->
+  <g class="row r1">
+    <text x="24" y="96" class="t d sm">PERMS</text><text x="130" y="96" class="t d sm">NAME</text><text x="393" y="96" class="t d sm">LANG</text><text x="500" y="96" class="t d sm">PURPOSE</text><text x="836" y="96" text-anchor="end" class="t d sm">STARS</text>
+    <rect x="24" y="104" width="812" height="1" fill="#30363d"/>
+  </g>
+
+  <rect class="hl" x="14" y="112" width="832" height="34" rx="6"/>
+
+  <!-- rows: y baseline 134 + 38n -->
+  <g class="row r1">
+    <text x="24" y="134" class="t d">drwxr-x---</text>
+    <text x="130" y="134" class="t n">citadel</text>
+    <circle cx="398" cy="129" r="5" fill="#8b949e"/><text x="410" y="134" class="t d sm">mixed</text>
+    <text x="500" y="134" class="t">hardened base of operations</text>
+    <text x="836" y="134" text-anchor="end" class="t r sm">★ 1</text>
+  </g>
+  <g class="row r2">
+    <text x="24" y="172" class="t d">drwxr-xr-x</text>
+    <text x="130" y="172" class="t n">pinsql</text>
+    <circle cx="398" cy="167" r="5" fill="#00ff9f"/><text x="410" y="172" class="t d sm">markdown</text>
+    <text x="500" y="172" class="t">network &amp; security d3v op.</text>
+  </g>
+  <g class="row r3">
+    <text x="24" y="210" class="t d">-rwxr-xr-x</text>
+    <text x="130" y="210" class="t n">simple-python-network-scanner</text>
+    <circle cx="398" cy="205" r="5" fill="#3572A5"/><text x="410" y="210" class="t d sm">python</text>
+    <text x="500" y="210" class="t">sweep the subnet, list what's alive</text>
+  </g>
+  <g class="row r4">
+    <text x="24" y="248" class="t d">-rwxr-xr-x</text>
+    <text x="130" y="248" class="t n">mac_address_scanner</text>
+    <circle cx="398" cy="243" r="5" fill="#3572A5"/><text x="410" y="248" class="t d sm">python</text>
+    <text x="500" y="248" class="t">who's on the wire? vendor by MAC</text>
+  </g>
+  <g class="row r5">
+    <text x="24" y="286" class="t d">-rw-r--r--</text>
+    <text x="130" y="286" class="t n">AI-Sentiment-Analyzer</text>
+    <circle cx="398" cy="281" r="5" fill="#DA5B0B"/><text x="410" y="286" class="t d sm">jupyter</text>
+    <text x="500" y="286" class="t">NLP side quest <tspan class="d">(fork)</tspan></text>
+  </g>
+  <g class="row r6">
+    <text x="24" y="324" class="t d">-rw-r--r--</text>
+    <text x="130" y="324" class="t n">steveweb_protfolio</text>
+    <circle cx="398" cy="319" r="5" fill="#e34c26"/><text x="410" y="324" class="t d sm">html</text>
+    <text x="500" y="324" class="t">web front, hand-rolled</text>
+    <rect class="cur" x="700" y="312" width="9" height="16" fill="#00ff9f"/>
+  </g>
+</svg>
