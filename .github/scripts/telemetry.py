@@ -25,6 +25,7 @@ query($login: String!) {
       }
     }
     contributionsCollection {
+      restrictedContributionsCount
       contributionCalendar {
         totalContributions
         weeks { contributionDays { date contributionCount } }
@@ -62,7 +63,7 @@ def mock():
         "repositories": {"totalCount": 6, "nodes": [{
             "stargazerCount": 1, "isFork": False,
             "languages": {"edges": [{"size": s, "node": {"name": n, "color": c}} for n, c, s in langs]}}]},
-        "contributionsCollection": {"contributionCalendar": {
+        "contributionsCollection": {"restrictedContributionsCount": 40, "contributionCalendar": {
             "totalContributions": sum(d["contributionCount"] for d in days), "weeks": weeks}},
     }
 
@@ -84,6 +85,7 @@ def streaks(days):
 
 def render(u):
     cal = u["contributionsCollection"]["contributionCalendar"]
+    private = u["contributionsCollection"].get("restrictedContributionsCount", 0)
     days = [d for w in cal["weeks"] for d in w["contributionDays"]]
     weekly = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in cal["weeks"]][-52:]
     current, longest = streaks(days)
@@ -104,7 +106,8 @@ def render(u):
     total_lang = sum(s for _, s in top) or 1
 
     rows = [
-        ("contributions", f"{cal['totalContributions']}", "last 365d"),
+        ("contributions", f"{cal['totalContributions'] + private}",
+         f"last 365d · {private} private" if private else "last 365d"),
         ("current streak", f"{current}d", "keep the shell alive"),
         ("longest streak", f"{longest}d", ""),
         ("active days", f"{active}", f"{active * 100 // max(len(days), 1)}% uptime"),
