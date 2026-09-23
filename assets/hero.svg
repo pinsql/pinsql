@@ -23,9 +23,8 @@
   <rect x="1" y="1" width="858" height="118" rx="12" class="edge"/>
   <g clip-path="url(#clip)"><rect class="scan" x="0" y="0" width="860" height="10" fill="url(#sl)"/></g>
   <g text-anchor="middle">
-    <text x="430" y="52" class="t r">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
-    <text x="430" y="52" class="t c">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
-    <text x="430" y="52" class="t m">HATE SCHOOL <tspan class="dot">·</tspan> BREAK SHIT <tspan class="dot">·</tspan> RULES SUCK</text>
-    <text x="430" y="84" class="s">self-taught. dropped the syllabus, picked up a shell.<tspan class="m blink"> _</tspan></text>
+    <text x="430" y="67" class="t r">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
+    <text x="430" y="67" class="t c">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
+    <text x="430" y="67" class="t m">HATE SCHOOL <tspan class="dot">·</tspan> BREAK SHIT <tspan class="dot">·</tspan> RULES SUCK</text>
   </g>
 </svg>
