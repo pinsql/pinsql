@@ -121,6 +121,7 @@ def render(u):
     a = out.append
     W, H = 860, 352
     a(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="pinsql telemetry">')
+    a("<title>pinsql telemetry</title>")
     a("""<style>
 .t{font:14px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
 .m{fill:#00ff9f}.c{fill:#00e5ff}.d{fill:#6e7681}.r{fill:#ff2e63}.k{fill:#00ff9f;font-weight:700}.sm{font-size:12px}.b{font-weight:700;fill:#e6edf3}
