@@ -35,7 +35,7 @@
 
   <text x="270" y="100" class="t l l2"><tspan class="k">root</tspan><tspan class="d">@</tspan><tspan class="k">pinsql</tspan></text>
   <text x="270" y="120" class="t d l l2">────────────────────────────────────────────</text>
-  <text x="270" y="140" class="t l l3"><tspan class="k">OS       </tspan> Linux (windows is for victims)</text>
+  <text x="270" y="140" class="t l l3"><tspan class="k">OS       </tspan> Linux (windows is for COD &amp; roblox)</text>
   <text x="270" y="160" class="t l l4"><tspan class="k">Role     </tspan> backend dev by day, menace by night</text>
   <text x="270" y="180" class="t l l5"><tspan class="k">Stack    </tspan> Node.js · Python · PHP · Go</text>
   <text x="270" y="200" class="t l l6"><tspan class="k">Infra    </tspan> Docker · Nginx · CI/CD · Terraform</text>
