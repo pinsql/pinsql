@@ -15,6 +15,7 @@
       18%{transform:translateY(0)}22%{transform:translateY(38px)}37%{transform:translateY(38px)}41%{transform:translateY(76px)}
       56%{transform:translateY(76px)}60%{transform:translateY(114px)}75%{transform:translateY(114px)}79%{transform:translateY(152px)}
       95%{opacity:.07;transform:translateY(152px)}100%{opacity:0;transform:translateY(152px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.row,.cmd{opacity:1}}
   </style>
   <defs><linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
 
