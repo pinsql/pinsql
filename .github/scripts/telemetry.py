@@ -40,9 +40,10 @@ def fetch(login):
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": QUERY, "variables": {"login": login}}).encode(),
-        headers={"Authorization": f"bearer {os.environ['GITHUB_TOKEN']}"},
+        headers={"Authorization": f"bearer {os.environ['GITHUB_TOKEN']}",
+                 "User-Agent": "pinsql-telemetry"},
     )
-    with urllib.request.urlopen(req) as r:
+    with urllib.request.urlopen(req, timeout=30) as r:
         body = json.load(r)
     if "errors" in body:
         raise SystemExit(body["errors"])
