@@ -18,61 +18,6 @@
 
 </div>
 
-### `> ./ctf --target pinsql` 🏴
-
-<sub>think you can pop this box? click your way in 👇</sub>
-
-<details>
-<summary><code>guest@void:~$ ssh guest@pinsql</code></summary>
-
-```text
-Connecting to pinsql:22 ...
-SSH-2.0-curiosity_9.x
-Warning: you are now being watched. Welcome, guest. 👁
-```
-
-<details>
-<summary><code>guest@pinsql:~$ ls -la</code></summary>
-
-```text
-drwx------  root  root   4096  .
--rw-r--r--  guest guest   420  notes.txt
--r--------  root  root     37  .flag
-```
-
-<details>
-<summary><code>guest@pinsql:~$ cat .flag</code></summary>
-
-```diff
-- cat: .flag: Permission denied
-```
-
-<details>
-<summary><code>guest@pinsql:~$ cat notes.txt</code></summary>
-
-```text
-todo: stop leaving sudo NOPASSWD on /usr/bin/less
-      ...nobody reads these anyway
-```
-
-<details>
-<summary><code>guest@pinsql:~$ sudo less .flag</code></summary>
-
-```diff
-+ [*] GTFOBins: less → !/bin/sh
-+ [+] uid=0(root) gid=0(root) groups=0(root)
-+
-+ flag{st4y_r00t_st4y_fr3sty}
-```
-
-<b>🏆 box pwned.</b> screenshot this and drop it at <a href="https://x.com/wildkenyan">@wildkenyan</a>. first blood gets a shoutout.
-
-</details>
-</details>
-</details>
-</details>
-</details>
-
 ### `> ls -la ~/ops` 🗂
 
 <div align="center">
