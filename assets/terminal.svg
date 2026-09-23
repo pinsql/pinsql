@@ -12,6 +12,7 @@
     .scan{fill:url(#s);opacity:.08}
     @keyframes show{to{opacity:1}}
     @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.l,.cur{opacity:1}}
   </style>
   <defs>
     <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff"/></pattern>
