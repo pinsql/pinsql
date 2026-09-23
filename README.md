@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=PinSQL;Backend+%7C+Networks+%7C+Systems+%7C+APIs;Break+%E2%86%92+Learn+%E2%86%92+Build+%28authorized+only%29;root%40pinsql%3A~%23+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=hey%2C+it%27s+pinsql+%F0%9F%91%8B;i+break+stuff+%28with+permission%29;then+i+fix+it+%28sometimes%29;your+firewall+looks+nervous+rn;root%40pinsql%3A~%23+_" alt="Typing SVG" />
 
 <a href="https://x.com/wildkenyan"><img src="./assets/terminal.svg" alt="root@pinsql terminal" width="100%" /></a>
 
@@ -10,12 +10,12 @@
   <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-00FF9F?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X @wildkenyan" /></a>
 </p>
 
-<sub><code>STATUS: ONLINE</code> · <code>STACK: PROD-GRADE</code> · <code>DISCLOSURE: ETHICAL</code> · <code>LAST_DEPLOY: WHEN_IT_COMPILES</code></sub>
+<sub><code>MOOD: smug</code> · <code>SLEEP: deprecated</code> · <code>BUGS: found, not made (mostly)</code> · <code>DEPLOYS: fridays 😈</code></sub>
 
 <img src="./assets/hero.svg" alt="SELF-TAUGHT · BACKEND · NETWORK · SYSTEMS · OFFSEC" width="100%" />
 
-<i>Decentralization-curious. Firewall-aware. Intrusion-informed.</i><br/>
-<b>Ethically disclosed</b> findings across <b>hundreds</b> of orgs — responsible disclosure, sharp writeups, no noise.
+<i>i poke your app till it spills its secrets, then hand them back with a bow on top.</i><br/>
+bugs reported to <b>hundreds</b> of orgs. no ransom, no drama, just one very smug email. 💅
 
 <br/>
 
@@ -112,7 +112,7 @@ todo: stop leaving sudo NOPASSWD on /usr/bin/less
 
 <div align="center">
 
-<b>Your network. Your rules.</b><br/>
+<b>your network, your rules.</b> i just read them really carefully.<br/>
 <code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤
 
 <br/><br/>

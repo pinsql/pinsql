@@ -35,13 +35,13 @@
 
   <text x="270" y="100" class="t l l2"><tspan class="k">root</tspan><tspan class="d">@</tspan><tspan class="k">pinsql</tspan></text>
   <text x="270" y="120" class="t d l l2">────────────────────────────────────────────</text>
-  <text x="270" y="140" class="t l l3"><tspan class="k">OS       </tspan> Linux (daily driver energy)</text>
-  <text x="270" y="160" class="t l l4"><tspan class="k">Role     </tspan> Backend · NetEng · Systems · Offsec</text>
+  <text x="270" y="140" class="t l l3"><tspan class="k">OS       </tspan> Linux (windows is for victims)</text>
+  <text x="270" y="160" class="t l l4"><tspan class="k">Role     </tspan> backend dev by day, menace by night</text>
   <text x="270" y="180" class="t l l5"><tspan class="k">Stack    </tspan> Node.js · Python · PHP · Go</text>
   <text x="270" y="200" class="t l l6"><tspan class="k">Infra    </tspan> Docker · Nginx · CI/CD · Terraform</text>
-  <text x="270" y="220" class="t l l7"><tspan class="k">Focus    </tspan> APIs · hardening · recon · disclosure</text>
+  <text x="270" y="220" class="t l l7"><tspan class="k">Focus    </tspan> APIs · recon · being annoyingly right</text>
   <text x="270" y="240" class="t l l8"><tspan class="k">Contact  </tspan> <tspan class="c">x.com/wildkenyan</tspan></text>
-  <text x="270" y="260" class="t l l9"><tspan class="k">Motto    </tspan> break (legally) → learn → ship</text>
+  <text x="270" y="260" class="t l l9"><tspan class="k">Motto    </tspan> if it takes input, it has a bug</text>
   <g class="l l10">
     <rect x="270" y="274" width="22" height="12" fill="#0d1117"/><rect x="294" y="274" width="22" height="12" fill="#ff2e63"/>
     <rect x="318" y="274" width="22" height="12" fill="#00ff9f"/><rect x="342" y="274" width="22" height="12" fill="#ffd166"/>
