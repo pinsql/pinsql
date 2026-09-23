@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="Self-taught · Backend · Network · Systems · Offsec">
+  <style>
+    .t{font:600 19px 'Fira Code','JetBrains Mono',Consolas,monospace;letter-spacing:2px}
+    .s{font:14px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#8b949e;letter-spacing:1px}
+    .m{fill:#00ff9f}.dot{fill:#30363d}
+    .r{fill:#ff2e63;opacity:0;animation:gr 4s infinite}
+    .c{fill:#00e5ff;opacity:0;animation:gc 4s infinite}
+    .edge{fill:none;stroke:url(#g);stroke-width:2;stroke-dasharray:180 1700;animation:run 5s linear infinite}
+    .scan{animation:scan 3.5s linear infinite}
+    .blink{animation:bl 1s steps(1) infinite}
+    @keyframes run{to{stroke-dashoffset:-1880}}
+    @keyframes scan{from{transform:translateY(-10px)}to{transform:translateY(125px)}}
+    @keyframes bl{50%{opacity:0}}
+    @keyframes gr{0%,86%,100%{opacity:0;transform:none}88%{opacity:.8;transform:translate(-3px,1px)}92%{opacity:.8;transform:translate(2px,-1px)}}
+    @keyframes gc{0%,86%,100%{opacity:0;transform:none}88%{opacity:.8;transform:translate(3px,-1px)}92%{opacity:.8;transform:translate(-2px,1px)}}
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f" stop-opacity="0"/><stop offset=".5" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+    <linearGradient id="sl" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#00ff9f" stop-opacity="0"/><stop offset="1" stop-color="#00ff9f" stop-opacity=".18"/></linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="858" height="118" rx="12"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="858" height="118" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="118" rx="12" class="edge"/>
+  <g clip-path="url(#clip)"><rect class="scan" x="0" y="0" width="860" height="10" fill="url(#sl)"/></g>
+  <g text-anchor="middle">
+    <text x="430" y="52" class="t r">SELF-TAUGHT · BACKEND · NETWORK · SYSTEMS · OFFSEC</text>
+    <text x="430" y="52" class="t c">SELF-TAUGHT · BACKEND · NETWORK · SYSTEMS · OFFSEC</text>
+    <text x="430" y="52" class="t m">SELF-TAUGHT <tspan class="dot">·</tspan> BACKEND <tspan class="dot">·</tspan> NETWORK <tspan class="dot">·</tspan> SYSTEMS <tspan class="dot">·</tspan> OFFSEC</text>
+    <text x="430" y="84" class="s">node · python · php · go · sql · linux · docker · nginx · ci/cd<tspan class="m blink"> _</tspan></text>
+  </g>
+</svg>

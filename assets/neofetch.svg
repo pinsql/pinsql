@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="310" viewBox="0 0 860 310" role="img" aria-label="neofetch for root@pinsql">
+  <style>
+    .t{font:15px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
+    .m{fill:#00ff9f}.c{fill:#00e5ff}.d{fill:#6e7681}.k{fill:#00ff9f;font-weight:700}
+    .art{fill:#00ff9f;opacity:0;animation:in .5s ease forwards .3s}
+    .eye{fill:#ff2e63;animation:eye 3s infinite 1s}
+    .l{opacity:0;animation:in .25s forwards}
+    .l1{animation-delay:.2s}.l2{animation-delay:.9s}.l3{animation-delay:1.1s}.l4{animation-delay:1.3s}.l5{animation-delay:1.5s}
+    .l6{animation-delay:1.7s}.l7{animation-delay:1.9s}.l8{animation-delay:2.1s}.l9{animation-delay:2.3s}.l10{animation-delay:2.6s}
+    .cur{animation:bl 1s steps(1) infinite}
+    @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+    @keyframes eye{0%,70%,100%{opacity:1}75%,80%{opacity:.1}}
+    @keyframes bl{50%{opacity:0}}
+  </style>
+  <defs><linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
+  <rect width="860" height="310" rx="12" fill="#0d1117"/>
+  <rect width="860" height="34" rx="12" fill="#161b22"/><rect y="20" width="860" height="14" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="430" y="22" text-anchor="middle" class="t d" style="font-size:13px">root@pinsql: ~ — neofetch</text>
+  <rect y="34" width="860" height="2" fill="url(#glow)"/>
+
+  <text x="24" y="64" class="t l l1"><tspan class="m">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan>neofetch</text>
+
+  <g class="art">
+    <text x="40" y="100" class="t m">   .-""""-.</text>
+    <text x="40" y="120" class="t m">  /  _  _  \</text>
+    <text x="40" y="140" class="t m"> |  ( )( )  |</text>
+    <text x="40" y="160" class="t m"> |    /\    |</text>
+    <text x="40" y="180" class="t m">  \  '--'  /</text>
+    <text x="40" y="200" class="t m">   '-.__.-'</text>
+    <text x="40" y="220" class="t m">   /|    |\</text>
+    <text x="40" y="240" class="t m">  /_|____|_\</text>
+    <circle cx="91" cy="135" r="3" class="eye"/><circle cx="118" cy="135" r="3" class="eye"/>
+  </g>
+
+  <text x="270" y="100" class="t l l2"><tspan class="k">root</tspan><tspan class="d">@</tspan><tspan class="k">pinsql</tspan></text>
+  <text x="270" y="120" class="t d l l2">────────────────────────────────────────────</text>
+  <text x="270" y="140" class="t l l3"><tspan class="k">OS       </tspan> Linux (daily driver energy)</text>
+  <text x="270" y="160" class="t l l4"><tspan class="k">Role     </tspan> Backend · NetEng · Systems · Offsec</text>
+  <text x="270" y="180" class="t l l5"><tspan class="k">Stack    </tspan> Node.js · Python · PHP · Go</text>
+  <text x="270" y="200" class="t l l6"><tspan class="k">Infra    </tspan> Docker · Nginx · CI/CD · Terraform</text>
+  <text x="270" y="220" class="t l l7"><tspan class="k">Focus    </tspan> APIs · hardening · recon · disclosure</text>
+  <text x="270" y="240" class="t l l8"><tspan class="k">Contact  </tspan> <tspan class="c">x.com/wildkenyan</tspan></text>
+  <text x="270" y="260" class="t l l9"><tspan class="k">Motto    </tspan> break (legally) → learn → ship</text>
+  <g class="l l10">
+    <rect x="270" y="274" width="22" height="12" fill="#0d1117"/><rect x="294" y="274" width="22" height="12" fill="#ff2e63"/>
+    <rect x="318" y="274" width="22" height="12" fill="#00ff9f"/><rect x="342" y="274" width="22" height="12" fill="#ffd166"/>
+    <rect x="366" y="274" width="22" height="12" fill="#00e5ff"/><rect x="390" y="274" width="22" height="12" fill="#bd93f9"/>
+    <rect x="414" y="274" width="22" height="12" fill="#c9d1d9"/>
+    <text x="24" y="290" class="t"><tspan class="m">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan><tspan class="m cur">█</tspan></text>
+  </g>
+</svg>

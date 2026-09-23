@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=PinSQL;Backend+%7C+Networks+%7C+Systems+%7C+APIs;Break+%E2%86%92+Learn+%E2%86%92+Build+%28authorized+only%29;root%40pinsql%3A~%23+_" alt="Typing SVG" />
 
-<img src="./assets/terminal.svg" alt="root@pinsql terminal" width="100%" />
+<a href="https://x.com/wildkenyan"><img src="./assets/terminal.svg" alt="root@pinsql terminal" width="100%" /></a>
 
 <p>
   <a href="https://github.com/pinsql"><img src="https://img.shields.io/badge/GitHub-pinsql-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub @pinsql" /></a>
@@ -12,58 +12,71 @@
 
 <sub><code>STATUS: ONLINE</code> · <code>STACK: PROD-GRADE</code> · <code>DISCLOSURE: ETHICAL</code> · <code>LAST_DEPLOY: WHEN_IT_COMPILES</code></sub>
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║    SELF-TAUGHT  ·  BACKEND  ·  NETWORK  ·  SYSTEMS  ·  OFFSEC    ║
- ║ Node · Python · PHP · Go · SQL · Linux · Docker · Nginx · CI/CD  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="./assets/hero.svg" alt="SELF-TAUGHT · BACKEND · NETWORK · SYSTEMS · OFFSEC" width="100%" />
 
 <i>Decentralization-curious. Firewall-aware. Intrusion-informed.</i><br/>
 <b>Ethically disclosed</b> findings across <b>hundreds</b> of orgs — responsible disclosure, sharp writeups, no noise.
 
+<br/>
+
+<a href="https://x.com/wildkenyan"><img src="./assets/neofetch.svg" alt="neofetch — root@pinsql" width="100%" /></a>
+
 </div>
 
-### `> neofetch`
+### `> ./ctf --target pinsql` 🏴
+
+<sub>think you can pop this box? click your way in 👇</sub>
+
+<details>
+<summary><code>guest@void:~$ ssh guest@pinsql</code></summary>
 
 ```text
-root@pinsql:~$ neofetch
-        .-""""-.          root@pinsql
-       /  _  _  \         ────────────────────────────────────────
-      |  (o)(o)  |        OS        Linux (daily driver energy)
-      |    /\    |        Role      Backend · NetEng · Systems · Offsec
-       \  '--'  /         Stack     Node.js · Python · PHP · Go
-        '-.__.-'          Infra     Docker · Nginx · CI/CD · Terraform
-        /|    |\          Focus     APIs · hardening · recon · disclosure
-       /_|____|_\         Contact   x.com/wildkenyan
-                          Motto     break (legally) → learn → ship
+Connecting to pinsql:22 ...
+SSH-2.0-curiosity_9.x
+Warning: you are now being watched. Welcome, guest. 👁
 ```
 
-### `> dmesg | tail -n 5`
+<details>
+<summary><code>guest@pinsql:~$ ls -la</code></summary>
+
+```text
+drwx------  root  root   4096  .
+-rw-r--r--  guest guest   420  notes.txt
+-r--------  root  root     37  .flag
+```
+
+<details>
+<summary><code>guest@pinsql:~$ cat .flag</code></summary>
 
 ```diff
-+ [  OK  ] designing APIs that fail closed, not open
-+ [  OK  ] tracing packets before blaming the database
-+ [  OK  ] shipping small diffs; rolling forward, not hiding
-+ [  OK  ] reading RFCs for fun (and fewer incidents)
-- [ WARN ] unauthorized targets: permission denied (always)
+- cat: .flag: Permission denied
 ```
 
-### `> ls ~/stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?theme=dark&perline=13&i=bash,python,nodejs,php,go,linux,docker,nginx,aws,terraform,postgres,redis,git" alt="Stack" />
-
-<sub><code>burp</code> · <code>nmap</code> · <code>metasploit</code> · <code>wireshark</code> · <code>ffuf</code> · <code>sqlmap</code> · <code>kali</code></sub>
-
-</div>
-
-### `> ./killchain.sh`
+<details>
+<summary><code>guest@pinsql:~$ cat notes.txt</code></summary>
 
 ```text
- [ RECON ] ──► [ ENUM ] ──► [ EXPLOIT ] ──► [ PRIVESC ] ──► [ PIVOT ] ──► [ REPORT ]
+todo: stop leaving sudo NOPASSWD on /usr/bin/less
+      ...nobody reads these anyway
 ```
+
+<details>
+<summary><code>guest@pinsql:~$ sudo less .flag</code></summary>
+
+```diff
++ [*] GTFOBins: less → !/bin/sh
++ [+] uid=0(root) gid=0(root) groups=0(root)
++
++ flag{st4y_r00t_st4y_fr3sty}
+```
+
+<b>🏆 box pwned.</b> screenshot this and drop it at <a href="https://x.com/wildkenyan">@wildkenyan</a>. first blood gets a shoutout.
+
+</details>
+</details>
+</details>
+</details>
+</details>
 
 <div align="center">
 
