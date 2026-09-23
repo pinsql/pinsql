@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="314" viewBox="0 0 860 314" role="img" aria-label="ls -la ~/ops — pinsql projects">
+  <title>ls -la ~/ops: pinsql projects</title>
   <style>
     .t{font:14px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
     .m{fill:#00ff9f}.c{fill:#00e5ff}.d{fill:#6e7681}.r{fill:#ff2e63}.w{fill:#e6edf3}

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="310" viewBox="0 0 860 310" role="img" aria-label="neofetch for root@pinsql">
+  <title>neofetch for root@pinsql</title>
   <style>
     .t{font:15px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
     .m{fill:#00ff9f}.c{fill:#00e5ff}.d{fill:#6e7681}.k{fill:#00ff9f;font-weight:700}
