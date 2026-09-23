@@ -6,6 +6,7 @@ import datetime as dt
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 from collections import Counter
 from html import escape
@@ -43,10 +44,16 @@ def fetch(login):
         headers={"Authorization": f"bearer {os.environ['GITHUB_TOKEN']}",
                  "User-Agent": "pinsql-telemetry"},
     )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        body = json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            body = json.load(r)
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"telemetry: GitHub API returned HTTP {e.code} {e.reason}")
+    except urllib.error.URLError as e:
+        raise SystemExit(f"telemetry: could not reach the GitHub API: {e.reason}")
     if "errors" in body:
-        raise SystemExit(body["errors"])
+        msgs = "; ".join(e.get("message", str(e)) for e in body["errors"])
+        raise SystemExit(f"telemetry: GraphQL error: {msgs}")
     return body["data"]["user"]
 
 
