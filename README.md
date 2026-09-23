@@ -55,83 +55,38 @@ root@pinsql:~$ neofetch
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><code>LANG</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=bash,python,nodejs,php,go" alt="Languages" /></td>
-    <td align="center"><code>INFRA</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=linux,docker,nginx,aws,terraform,githubactions" alt="Infrastructure" /></td>
-  </tr>
-  <tr>
-    <td align="center"><code>DATA</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=mysql,postgres,redis" alt="Databases" /></td>
-    <td align="center"><code>TOOLS</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=git,vim,vscode" alt="Tools" /></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?theme=dark&perline=13&i=bash,python,nodejs,php,go,linux,docker,nginx,aws,terraform,postgres,redis,git" alt="Stack" />
+
+<sub><code>burp</code> · <code>nmap</code> · <code>metasploit</code> · <code>wireshark</code> · <code>ffuf</code> · <code>sqlmap</code> · <code>kali</code></sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF9F" />
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Backend-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF9F" />
-<img src="https://img.shields.io/badge/-APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-DevOps-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF9F" />
-<img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/-IaC-000000?style=for-the-badge&logo=terraform&logoColor=00FF9F" />
+<img src="https://streak-stats.demolab.com?user=pinsql&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=6E7681" alt="GitHub streak" />
 
-<br/><br/>
+</div>
 
-| <a href="https://github.com/pinsql"><code>STATS</code></a> | <a href="https://github.com/pinsql"><code>LANGUAGES</code></a> | <a href="https://github.com/pinsql"><code>STREAK</code></a> |
-|:---:|:---:|:---:|
-| <img height="195" src="https://github-readme-stats.vercel.app/api?username=pinsql&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&ring_color=00ff9f&icon_color=00ff9f" alt="GitHub stats" /> | <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinsql&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=&title_color=00ff9f" alt="Top languages" /> | <img height="195" src="https://streak-stats.demolab.com?user=pinsql&theme=tokyonight&hide_border=true&ring=00FF9F&fire=00FF9F&currStreakLabel=Current%20streak" alt="GitHub streak" /> |
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pinsql&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=4&margin-h=4" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinsql&theme=github-dark&hide_border=true&area=true&color=00ff9f&line=00ff9f&point=ffffff" width="100%" alt="Contribution activity graph" />
-
----
-
-### `> ls ~/arsenal`
-
-<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00FF9F" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9F" alt="Nmap" />
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00FF9F" alt="Metasploit" />
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF9F" alt="Wireshark" />
-<img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=go&logoColor=00FF9F" alt="ffuf" />
-<img src="https://img.shields.io/badge/sqlmap-0d1117?style=for-the-badge&logo=databricks&logoColor=00FF9F" alt="sqlmap" />
-<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9F" alt="Kali Linux" />
-
-### `> ./killchain.sh --explain`
+### `> ./killchain.sh`
 
 ```text
  [ RECON ] ──► [ ENUM ] ──► [ EXPLOIT ] ──► [ PRIVESC ] ──► [ PIVOT ] ──► [ REPORT ]
-     │            │             │               │              │             │
-  osint,       ports,        foothold,       root/SYSTEM,   lateral,     responsible
-  subdomains   dirs, vers    creativity      misconfigs     AD paths     disclosure
 ```
 
 ### `> manifesto`
 
 ```
-✦ Ship systems that respect users — tech that breaks barriers, not trust
-✦ Open source when it makes sense; document like someone will pwn you tomorrow
-✦ Always learning · always probing (legally) · always building
+✦ ship systems that respect users — break barriers, not trust
+✦ document like someone will pwn you tomorrow
+✦ always learning · always probing (legally) · always building
 ```
 
-### `> quick check`
+<div align="center">
 
-```bash
-# who runs this profile anyway?
-curl -s https://api.github.com/users/pinsql | jq -r '"\(.login) · \(.bio // "building") · \(.public_repos) public repos"'
-```
+<b>Your network. Your rules.</b><br/>
+<code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤
 
-<p align="center">
-  <b>Your network. Your rules.</b><br/>
-  <code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=for-the-badge&label=PROFILE+SCANS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=flat-square&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,40:161b22,80:0d1117,100:0d1117&height=120&section=footer" width="100%" alt="footer wave" />
 
