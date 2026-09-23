@@ -2,10 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=PinSQL;Backend+%7C+Networks+%7C+Systems+%7C+APIs;Break+%E2%86%92+Learn+%E2%86%92+Build+%28authorized+only%29;root%40pinsql%3A~%23+_" alt="Typing SVG" />
 
+<img src="./assets/terminal.svg" alt="root@pinsql terminal" width="100%" />
+
 <p>
   <a href="https://github.com/pinsql"><img src="https://img.shields.io/badge/GitHub-pinsql-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub @pinsql" /></a>
   &nbsp;
   <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-161b22?style=for-the-badge&logo=x&logoColor=00FF9F&labelColor=0d1117" alt="X @wildkenyan" /></a>
+  &nbsp;
+  <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/twitter/follow/wildkenyan?style=for-the-badge&logo=x&label=follow&color=00FF9F&labelColor=0d1117" alt="Follow @wildkenyan on X" /></a>
 </p>
 
 <sub><code>STATUS: ONLINE</code> · <code>STACK: PROD-GRADE</code> · <code>DISCLOSURE: ETHICAL</code> · <code>LAST_DEPLOY: WHEN_IT_COMPILES</code></sub>
@@ -78,6 +82,25 @@ pinsql@github:~$ neofetch
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinsql&theme=github-dark&hide_border=true&area=true&color=00ff9f&line=00ff9f&point=ffffff" width="100%" alt="Contribution activity graph" />
 
 ---
+
+### `> ls ~/arsenal`
+
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00FF9F" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9F" alt="Nmap" />
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00FF9F" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF9F" alt="Wireshark" />
+<img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=go&logoColor=00FF9F" alt="ffuf" />
+<img src="https://img.shields.io/badge/sqlmap-0d1117?style=for-the-badge&logo=databricks&logoColor=00FF9F" alt="sqlmap" />
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9F" alt="Kali Linux" />
+
+### `> ./killchain.sh --explain`
+
+```text
+ [ RECON ] ──► [ ENUM ] ──► [ EXPLOIT ] ──► [ PRIVESC ] ──► [ PIVOT ] ──► [ REPORT ]
+     │            │             │               │              │             │
+  osint,       ports,        foothold,       root/SYSTEM,   lateral,     responsible
+  subdomains   dirs, vers    creativity      misconfigs     AD paths     disclosure
+```
 
 ### `> manifesto`
 

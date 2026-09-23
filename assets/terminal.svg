@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="root@pinsql terminal">
+  <style>
+    .bg{fill:#0d1117}
+    .bar{fill:#161b22}
+    .t{font:15px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#c9d1d9;white-space:pre}
+    .p{fill:#00ff9f}.g{fill:#39ff14}.c{fill:#00e5ff}.d{fill:#6e7681}.y{fill:#ffd166}
+    .l{opacity:0;animation:show .01s forwards}
+    .l1{animation-delay:.4s}.l2{animation-delay:1.3s}.l3{animation-delay:1.7s}.l4{animation-delay:2.1s}
+    .l5{animation-delay:2.5s}.l6{animation-delay:3.3s}.l7{animation-delay:3.9s}.l8{animation-delay:4.5s}
+    .l9{animation-delay:5.1s}.l10{animation-delay:5.9s}
+    .cur{animation:blink 1s steps(1) infinite 5.9s;opacity:0}
+    .scan{fill:url(#s);opacity:.08}
+    @keyframes show{to{opacity:1}}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+  </style>
+  <defs>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff"/></pattern>
+    <linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+  </defs>
+  <rect class="bg" width="860" height="300" rx="12"/>
+  <rect class="bar" width="860" height="34" rx="12"/>
+  <rect class="bar" y="20" width="860" height="14"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="430" y="22" text-anchor="middle" class="t d" style="font-size:13px">root@pinsql: ~/ops — zsh</text>
+  <rect x="0" y="34" width="860" height="2" fill="url(#glow)"/>
+
+  <text x="24" y="66"  class="t l l1"><tspan class="p">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan>whoami --short</text>
+  <text x="24" y="88"  class="t l l2">pinsql — backend · networks · offensive security · <tspan class="c">x.com/wildkenyan</tspan></text>
+  <text x="24" y="116" class="t l l3"><tspan class="p">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan>nmap -sV --script=vibes smug.local</text>
+  <text x="24" y="138" class="t l l4"><tspan class="d">PORT     STATE  SERVICE     VERSION</tspan></text>
+  <text x="24" y="158" class="t l l5"><tspan class="g">22/tcp   open   ssh         </tspan>curiosity 9.x</text>
+  <text x="24" y="178" class="t l l6"><tspan class="g">443/tcp  open   https       </tspan>api-breaker/1.337 (authorized only)</text>
+  <text x="24" y="198" class="t l l7"><tspan class="g">1337/tcp open   leet        </tspan>ctf-grinder (always on)</text>
+  <text x="24" y="218" class="t l l8"><tspan class="y">|_ vibes: </tspan>fr3sty. confidence: HIGH</text>
+  <text x="24" y="246" class="t l l9"><tspan class="p">root@pinsql</tspan><tspan class="d">:</tspan><tspan class="c">~</tspan><tspan class="d">$ </tspan>echo "hack the planet"</text>
+  <text x="24" y="268" class="t l l10"><tspan class="g">hack the planet</tspan> <tspan class="cur">█</tspan></text>
+
+  <rect class="scan" width="860" height="300" rx="12"/>
+</svg>
