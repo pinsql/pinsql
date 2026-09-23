@@ -12,8 +12,6 @@
 
 <sub><code>STATUS: ONLINE</code> · <code>STACK: PROD-GRADE</code> · <code>DISCLOSURE: ETHICAL</code> · <code>LAST_DEPLOY: WHEN_IT_COMPILES</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00ff9f,100:0d1117&height=140&section=header&text=&fontSize=42&animation=twinkling&fontAlignY=30" width="100%" alt="header wave" />
-
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║    SELF-TAUGHT  ·  BACKEND  ·  NETWORK  ·  SYSTEMS  ·  OFFSEC    ║
@@ -59,24 +57,12 @@ root@pinsql:~$ neofetch
 
 <sub><code>burp</code> · <code>nmap</code> · <code>metasploit</code> · <code>wireshark</code> · <code>ffuf</code> · <code>sqlmap</code> · <code>kali</code></sub>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=pinsql&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=6E7681" alt="GitHub streak" />
-
 </div>
 
 ### `> ./killchain.sh`
 
 ```text
  [ RECON ] ──► [ ENUM ] ──► [ EXPLOIT ] ──► [ PRIVESC ] ──► [ PIVOT ] ──► [ REPORT ]
-```
-
-### `> manifesto`
-
-```
-✦ ship systems that respect users — break barriers, not trust
-✦ document like someone will pwn you tomorrow
-✦ always learning · always probing (legally) · always building
 ```
 
 <div align="center">
