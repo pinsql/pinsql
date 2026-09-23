@@ -132,6 +132,7 @@ def render(u):
 @keyframes grow{to{transform:scaleY(1)}}
 @keyframes sx{to{transform:scaleX(1)}}
 @keyframes bl{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.l{opacity:1}.bar,.seg{transform:none}}
 </style>""")
     a('<defs><linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>'
       '<linearGradient id="bg" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#00ff9f" stop-opacity=".35"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>')
