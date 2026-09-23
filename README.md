@@ -46,8 +46,7 @@
   <img width="100%" alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg" />
 </picture>
 
-<sub><code>[*] worm deployed · every green square consumed · no survivors</code></sub><br/>
-<b>rules suck.</b> i read them anyway, then find the loophole. <code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤 <img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=flat-square&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile views" align="center" />
+<code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤 <img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=flat-square&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile views" align="center" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,40:161b22,80:0d1117,100:0d1117&height=60&section=footer" width="100%" alt="footer wave" />
 
