@@ -1,0 +1,28 @@
+name: validate
+
+# Catches a broken svg or telemetry script before it hits the profile.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - name: svgs are well-formed
+        run: |
+          for f in assets/*.svg; do
+            python3 -c "import sys, xml.etree.ElementTree as E; E.parse(sys.argv[1])" "$f" && echo "ok $f"
+          done
+
+      - name: telemetry renders (mock data)
+        run: |
+          python3 .github/scripts/telemetry.py pinsql --mock
+          python3 -c "import xml.etree.ElementTree as E; E.parse('dist/telemetry.svg')"
