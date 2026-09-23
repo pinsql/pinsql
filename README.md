@@ -7,9 +7,7 @@
 <p>
   <a href="https://github.com/pinsql"><img src="https://img.shields.io/badge/GitHub-pinsql-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub @pinsql" /></a>
   &nbsp;
-  <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-161b22?style=for-the-badge&logo=x&logoColor=00FF9F&labelColor=0d1117" alt="X @wildkenyan" /></a>
-  &nbsp;
-  <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/twitter/follow/wildkenyan?style=for-the-badge&logo=x&label=follow&color=00FF9F&labelColor=0d1117" alt="Follow @wildkenyan on X" /></a>
+  <a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-00FF9F?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X @wildkenyan" /></a>
 </p>
 
 <sub><code>STATUS: ONLINE</code> · <code>STACK: PROD-GRADE</code> · <code>DISCLOSURE: ETHICAL</code> · <code>LAST_DEPLOY: WHEN_IT_COMPILES</code></sub>
@@ -17,45 +15,56 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00ff9f,100:0d1117&height=140&section=header&text=&fontSize=42&animation=twinkling&fontAlignY=30" width="100%" alt="header wave" />
 
 ```
- ╔════════════════════════════════════════════════════════════════════╗
- ║  SELF-TAUGHT  ·  BACKEND  ·  NETWORK  ·  SYSTEMS  ·  HARDENING      ║
- ║  Node · Python · PHP · SQL · Linux · Docker · Nginx · CI/CD        ║
- ╚════════════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║    SELF-TAUGHT  ·  BACKEND  ·  NETWORK  ·  SYSTEMS  ·  OFFSEC    ║
+ ║ Node · Python · PHP · Go · SQL · Linux · Docker · Nginx · CI/CD  ║
+ ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <i>Decentralization-curious. Firewall-aware. Intrusion-informed.</i><br/>
 <b>Ethically disclosed</b> findings across <b>hundreds</b> of orgs — responsible disclosure, sharp writeups, no noise.
 
-<details>
-<summary><b><code>> whoami --verbose</code></b></summary>
+</div>
+
+### `> neofetch`
 
 ```text
-pinsql@github:~$ neofetch
-         OS          Linux (daily driver energy)
-         Role        Backend · NetEng · Systems
-         Stack       Node.js · Python · PHP
-         Infra       Docker · Nginx · CI/CD
-         Interests   APIs · hardening · OSS
-         Motto       break (legally) → learn → ship
+root@pinsql:~$ neofetch
+        .-""""-.          root@pinsql
+       /  _  _  \         ────────────────────────────────────────
+      |  (o)(o)  |        OS        Linux (daily driver energy)
+      |    /\    |        Role      Backend · NetEng · Systems · Offsec
+       \  '--'  /         Stack     Node.js · Python · PHP · Go
+        '-.__.-'          Infra     Docker · Nginx · CI/CD · Terraform
+        /|    |\          Focus     APIs · hardening · recon · disclosure
+       /_|____|_\         Contact   x.com/wildkenyan
+                          Motto     break (legally) → learn → ship
 ```
 
-</details>
+### `> dmesg | tail -n 5`
 
-<details>
-<summary><b><code>> dmesg | tail — recent focus</code></b></summary>
-
-```text
-[ .. ] designing APIs that fail closed, not open
-[ .. ] tracing packets before blaming the database
-[ .. ] shipping small diffs; rolling forward, not hiding
-[ .. ] reading RFCs for fun (and fewer incidents)
+```diff
++ [  OK  ] designing APIs that fail closed, not open
++ [  OK  ] tracing packets before blaming the database
++ [  OK  ] shipping small diffs; rolling forward, not hiding
++ [  OK  ] reading RFCs for fun (and fewer incidents)
+- [ WARN ] unauthorized targets: permission denied (always)
 ```
 
-</details>
+### `> ls ~/stack`
 
-<br/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,nodejs,python,php,mysql,postgres,redis,git,githubactions,vim,aws,terraform,go,vscode&perline=8&theme=dark" alt="Tech stack" />
+<table>
+  <tr>
+    <td align="center"><code>LANG</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=bash,python,nodejs,php,go" alt="Languages" /></td>
+    <td align="center"><code>INFRA</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=linux,docker,nginx,aws,terraform,githubactions" alt="Infrastructure" /></td>
+  </tr>
+  <tr>
+    <td align="center"><code>DATA</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=mysql,postgres,redis" alt="Databases" /></td>
+    <td align="center"><code>TOOLS</code><br/><br/><img src="https://skillicons.dev/icons?theme=dark&perline=6&i=git,vim,vscode" alt="Tools" /></td>
+  </tr>
+</table>
 
 <br/><br/>
 
