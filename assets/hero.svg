@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="Self-taught · no degree · still got root">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="hate school · break shit · rules suck">
   <style>
     .t{font:600 19px 'Fira Code','JetBrains Mono',Consolas,monospace;letter-spacing:2px}
     .s{font:14px 'Fira Code','JetBrains Mono',Consolas,monospace;fill:#8b949e;letter-spacing:1px}
@@ -23,9 +23,9 @@
   <rect x="1" y="1" width="858" height="118" rx="12" class="edge"/>
   <g clip-path="url(#clip)"><rect class="scan" x="0" y="0" width="860" height="10" fill="url(#sl)"/></g>
   <g text-anchor="middle">
-    <text x="430" y="52" class="t r">SELF-TAUGHT · NO DEGREE · STILL GOT ROOT</text>
-    <text x="430" y="52" class="t c">SELF-TAUGHT · NO DEGREE · STILL GOT ROOT</text>
-    <text x="430" y="52" class="t m">SELF-TAUGHT <tspan class="dot">·</tspan> NO DEGREE <tspan class="dot">·</tspan> STILL GOT ROOT</text>
-    <text x="430" y="84" class="s">i build the backend, then i break it. breaking is faster.<tspan class="m blink"> _</tspan></text>
+    <text x="430" y="52" class="t r">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
+    <text x="430" y="52" class="t c">HATE SCHOOL · BREAK SHIT · RULES SUCK</text>
+    <text x="430" y="52" class="t m">HATE SCHOOL <tspan class="dot">·</tspan> BREAK SHIT <tspan class="dot">·</tspan> RULES SUCK</text>
+    <text x="430" y="84" class="s">self-taught. dropped the syllabus, picked up a shell.<tspan class="m blink"> _</tspan></text>
   </g>
 </svg>

@@ -84,7 +84,7 @@ todo: stop leaving sudo NOPASSWD on /usr/bin/less
 
 <a href="https://github.com/pinsql?tab=repositories"><img src="./assets/ops.svg" alt="ls -la ~/ops — pinsql projects" width="100%" /></a>
 
-<sub><a href="https://github.com/pinsql/citadel"><code>citadel</code></a> · <a href="https://github.com/pinsql/simple-python-network-scanner"><code>network-scanner</code></a> · <a href="https://github.com/pinsql/mac_address_scanner"><code>mac_scanner</code></a> · <a href="https://github.com/pinsql/AI-Sentiment-Analyzer"><code>sentiment</code></a> · <a href="https://github.com/pinsql/steveweb_protfolio"><code>portfolio</code></a></sub>
+<sub><a href="https://github.com/pinsql/citadel"><code>citadel</code></a> · <a href="https://github.com/pinsql/simple-python-network-scanner"><code>network-scanner</code></a> · <a href="https://github.com/pinsql/mac_address_scanner"><code>mac_scanner</code></a> · <a href="https://github.com/pinsql/AI-Sentiment-Analyzer"><code>sentiment</code></a></sub>
 
 </div>
 
@@ -112,7 +112,7 @@ todo: stop leaving sudo NOPASSWD on /usr/bin/less
 
 <div align="center">
 
-<b>your network, your rules.</b> i just read them really carefully.<br/>
+<b>rules suck.</b> i read them anyway, then find the loophole.<br/>
 <code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤
 
 <br/><br/>
