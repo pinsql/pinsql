@@ -78,6 +78,55 @@ todo: stop leaving sudo NOPASSWD on /usr/bin/less
 </details>
 </details>
 
+### `> ls -la ~/ops` 🗂
+
+<div align="center">
+
+<a href="https://github.com/pinsql/citadel"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=citadel&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="citadel" /></a>
+<a href="https://github.com/pinsql/pinsql"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=pinsql&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="pinsql" /></a>
+
+<a href="https://github.com/pinsql/simple-python-network-scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=simple-python-network-scanner&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="simple-python-network-scanner" /></a>
+<a href="https://github.com/pinsql/mac_address_scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=mac_address_scanner&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="mac_address_scanner" /></a>
+
+<a href="https://github.com/pinsql/AI-Sentiment-Analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=AI-Sentiment-Analyzer&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="AI-Sentiment-Analyzer" /></a>
+<a href="https://github.com/pinsql/steveweb_protfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=steveweb_protfolio&show_owner=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&description_lines_count=2" alt="steveweb_protfolio" /></a>
+
+</div>
+
+```text
+drwxr-x---  citadel                        → hardened base of operations
+drwxr-xr-x  pinsql                         → network & security d3v op.
+-rwxr-xr-x  simple-python-network-scanner  → sweep the subnet, list what's alive
+-rwxr-xr-x  mac_address_scanner            → who's on the wire? vendor lookup by MAC
+-rw-r--r--  AI-Sentiment-Analyzer          → NLP side quest (fork)
+-rw-r--r--  steveweb_protfolio             → web front, hand-rolled HTML
+```
+
+### `> cat /proc/pinsql/stats` 📈
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pinsql&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff9f&custom_title=root%40pinsql%20%2F%2F%20telemetry" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=pinsql&hide_border=true&background=0D1117&ring=00FF9F&fire=FF2E63&currStreakLabel=00FF9F&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" alt="streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pinsql&custom_title=%3E%20uptime%20%2F%2F%20commits%20per%20day&bg_color=0d1117&color=00ff9f&title_color=00ff9f&line=00e5ff&point=ff2e63&area=true&area_color=00ff9f&hide_border=true&radius=10" alt="activity graph" />
+
+</div>
+
+### `> tail -f /var/log/contributions` 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-light.svg" />
+  <img width="100%" alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg" />
+</picture>
+
+<sub><code>[*] worm deployed · every green square consumed · no survivors</code></sub>
+
+</div>
+
 <div align="center">
 
 <b>Your network. Your rules.</b><br/>
