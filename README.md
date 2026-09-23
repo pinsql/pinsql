@@ -12,12 +12,7 @@
 
 <sub><code>MOOD: smug</code> · <code>SLEEP: deprecated</code> · <code>BUGS: found, not made (mostly)</code> · <code>DEPLOYS: fridays 😈</code></sub>
 
-<img src="./assets/hero.svg" alt="SELF-TAUGHT · BACKEND · NETWORK · SYSTEMS · OFFSEC" width="100%" />
-
-<i>i poke your app till it spills its secrets, then hand them back with a bow on top.</i><br/>
-bugs reported to <b>hundreds</b> of orgs. no ransom, no drama, just one very smug email. 💅
-
-<br/>
+<img src="./assets/hero.svg" alt="HATE SCHOOL · BREAK SHIT · RULES SUCK" width="100%" />
 
 <a href="https://x.com/wildkenyan"><img src="./assets/neofetch.svg" alt="neofetch — root@pinsql" width="100%" /></a>
 
@@ -106,20 +101,10 @@ todo: stop leaving sudo NOPASSWD on /usr/bin/less
   <img width="100%" alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg" />
 </picture>
 
-<sub><code>[*] worm deployed · every green square consumed · no survivors</code></sub>
+<sub><code>[*] worm deployed · every green square consumed · no survivors</code></sub><br/>
+<b>rules suck.</b> i read them anyway, then find the loophole. <code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤 <img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=flat-square&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile views" align="center" />
 
-</div>
-
-<div align="center">
-
-<b>rules suck.</b> i read them anyway, then find the loophole.<br/>
-<code>sudo stay-root</code> · <code>stay Fr3sty</code> 🖤
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=pinsql&color=00ff9f&style=flat-square&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,40:161b22,80:0d1117,100:0d1117&height=120&section=footer" width="100%" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,40:161b22,80:0d1117,100:0d1117&height=60&section=footer" width="100%" alt="footer wave" />
 
 </div>
 
