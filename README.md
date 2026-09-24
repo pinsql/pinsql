@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=hey%2C+it%27s+pinsql+%F0%9F%91%8B;i+break+stuff+%28with+permission%29;then+i+fix+it+%28sometimes%29;your+firewall+looks+nervous+rn;root%40pinsql%3A~%23+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=900&height=55&lines=hey%2C+it%27s+pinsql+%F0%9F%91%8B;i+break+stuff+%sometimes%29;then+i+fix+it+%28sometimes%29;your+firewall+looks+nervous+rn;root%40pinsql%3A~%23+_" alt="Typing SVG" />
 
 <a href="https://x.com/wildkenyan"><img src="./assets/terminal.svg" alt="root@pinsql terminal" width="100%" /></a>
 
