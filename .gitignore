@@ -2,5 +2,3 @@ dist/
 __pycache__/
 *.pyc
 .DS_Store
-onefone_report.html
-sweep.py
